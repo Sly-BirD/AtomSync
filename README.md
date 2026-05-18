@@ -1,6 +1,6 @@
-# AtomSync - AtomQuest Hackathon
+# AtomSync 
 
-AtomSync is a minimalist, desktop-first web application built for the **AtomQuest Hackathon**. It provides an intuitive platform for organizations to manage, track, and approve employee goals with seamless role-based access control.
+AtomSync is a minimalist, desktop-first web application that provides an intuitive platform for organizations to manage, track, and approve employee goals with seamless role-based access control.
 
 ## 🚀 Key Features
 - **Role-Based Access Control:** Distinct workflows and dashboards for Employees, Managers, and Admins.
@@ -10,9 +10,9 @@ AtomSync is a minimalist, desktop-first web application built for the **AtomQues
 
 ---
 
-## 🔐 Evaluator Quick Login (Hackathon Demo)
+## 🔐 Quick Login (Demo)
 
-To make testing the application as smooth as possible for the hackathon judges, we have built a "stealth bypass" into the login screen. 
+To make testing the application as smooth as possible I've built a "stealth bypass" into the login screen. 
 
 You do **not** need to sign up or confirm your email. Simply enter the following credentials on the Login screen, and the system will instantly bypass authentication and log you into the respective mocked role:
 
